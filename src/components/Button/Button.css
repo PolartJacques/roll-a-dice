@@ -1,0 +1,6 @@
+.button {
+  background-color: var(--dice-bg-color);
+  color: var(--dice-point-color);
+  border: 1px solid var(--dice-point-color);
+  height: 4em;
+}
